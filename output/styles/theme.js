@@ -10,6 +10,7 @@ const theme = {
     extraBold: 800,
     black: 900,
   },
+  colors: { black: "hsl(0, 0%, 20%)" },
   fontSizes: ["1.125rem"],
   lineHeights: { body: "27px" },
   fonts: { nunitoRegular: "Nunito-Regular" },
